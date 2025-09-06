@@ -1,0 +1,40 @@
+name: fake_store_app
+description: A Flutter multi-screen app using Fake Store API
+publish_to: 'none' # since this is not published
+
+version: 1.0.0+1
+
+environment:
+  sdk: '^3.9.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # State management
+  provider: ^6.0.5
+
+  # HTTP client
+  http: ^1.1.0
+
+  # Local storage
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  path_provider: ^2.0.15
+
+  # Flutter basics
+  cupertino_icons: ^1.0.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # Hive code generator (optional if using type adapters)
+  hive_generator: ^2.0.0
+  build_runner: ^2.4.0
+
+flutter:
+  uses-material-design: true
+
+#  assets:
+  #  - assets/
