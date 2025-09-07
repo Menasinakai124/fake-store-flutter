@@ -1,1 +1,0 @@
- D:\\flutterprojects\\fake_store_app\\.dart_tool\\flutter_build\\813710a0c77871c53f70b33ff7e542bb\\native_assets.json: 
