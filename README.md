@@ -79,4 +79,4 @@ A Flutter-based mobile application that fetches and displays products from the [
     This project is licensed under the MIT License. See the LICENSE file for details.
 
 
-    I can also **add a “Run on Android from VSCode” section** directly into this single block so it’s fully Android-ready. Do you want me to do that?
+    I can also **add a “Run on Android from VSCode” section** directly into this single block so it’s fully Android-ready.
